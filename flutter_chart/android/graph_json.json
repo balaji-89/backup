@@ -1,0 +1,37 @@
+ [
+    {
+      "year": "2014",
+      "financial": "25",
+      "color": "charts.ColorUtil.fromDartColor(Color(0xFF47505F))"
+    },
+    {
+      "year": "2015",
+      "financial": "300",
+      "color": "charts.ColorUtil.fromDartColor(Colors.red)"
+    },
+    {
+      "year": "2016",
+      "financial": "100",
+      "color": "charts.ColorUtil.fromDartColor(Colors.green)"
+    },
+    {
+      "year": "2017",
+      "financial": "450",
+      "color": "charts.ColorUtil.fromDartColor(Colors.yellow)"
+    },
+    {
+      "year": "2018",
+      "financial": "630",
+      "color": "charts.ColorUtil.fromDartColor(Colors.lightBlueAccent)"
+    },
+    {
+      "year": "2019",
+      "financial": "1000",
+      "color": "charts.ColorUtil.fromDartColor(Colors.pink)"    
+    },
+    {
+      "year": "2020",
+      "financial": "400",
+      "color": "charts.ColorUtil.fromDartColor(Colors.purple)"
+    }
+  ]
